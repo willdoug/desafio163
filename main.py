@@ -44,7 +44,7 @@ import time
 #######ORIGINAL#####4x3x3x4xcxfx6x9xfx3xaxcx5x0x4xbxbx7x2x6x8x7x8xax4x0x8x3x3x3x7x3x
 
 # Chave privada com caracteres desconhecidos representados como 'x'
-CHAVE_INCOMPLETA = "403b3d4fcff56a92f335a0cF570E4xbxbx7x2x6x8x7x8xax4x0x8x3x3x3x7x3x"
+CHAVE_INCOMPLETA = "4x3x3x4xcxfx6x9xfx3xaxcx5x0x4xbxbx7x2x6x8x7x8xax4x0x8x3x3x3x7x3x"
 # Endereço Bitcoin alvo a ser validado
 ENDERECO_ALVO = "1Hoyt6UBzwL5vvUSTLMQC2mwvvE5PpeSC"
 # Define o número de processos (clientes) como 70% do total de núcleos da CPU
