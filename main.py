@@ -40,7 +40,7 @@ import time
  #31=
 # 32=
 
-#######DICAS######## 0 B D F F 5 A 2 3 5 0 F 7 E
+#######DICAS######## 0 B D F F 5 A 2 3 5 0 F 7 E     1 B A   6   6 8
 #######ORIGINAL#####4x3x3x4xcxfx6x9xfx3xaxcx5x0x4xbxbx7x2x6x8x7x8xax4x0x8x3x3x3x7x3x
 
 # Chave privada com caracteres desconhecidos representados como 'x'
